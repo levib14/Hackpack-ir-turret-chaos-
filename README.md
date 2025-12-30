@@ -1,5 +1,5 @@
 # Hackpack-ir-turret-chaos-
-bunch of features for ir turret
+full code for IR turret with added changes/modes below 
 
 Mode	Activation	Description
 
